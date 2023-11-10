@@ -1,30 +1,38 @@
 ![Banner -CookieClicker](/images/CookieClicker%20-Banner.png)
+![Alt text](Screenshot1.png)
+![Alt text](Responsive.jpg)
+
 # Preview
 
 - [Live demo](https://yvessoham.github.io/Javascript/)
+
 # Instructions
-To improve our JavaScript skills, we have 5 days to create a cookie clicker game as a team. 
+
+To improve our JavaScript skills, we have 5 days to create a cookie clicker game as a team.
+
 - [Instructions links](https://github.com/becodeorg/Swartz-8/blob/main/2.The-Hill/1.Javascript/cookieClicker.md)
 
-# Languages and frameworks used 
+# Languages and frameworks used
+
 - HTML5, CSS3
-- Javascript 
+- Javascript
 - Vite
 
 # Wireframe - First draft
-I want to make a minimalist yet beautiful layout inspired by the [original game](https://orteil.dashnet.org/cookieclicker/) to offer a user-friendly design experience. 
+
+I want to make a minimalist yet beautiful layout inspired by the [original game](https://orteil.dashnet.org/cookieclicker/) to offer a user-friendly design experience.
 
 I wanted to simplify the layout with the cookie button and the point on one side, and all the features on the other, so we can have a clear view and not to much information.
 
+Of course, I choose colors that remind us of a cookie and we will try to find fonts and animation that suit that theme.
+![Alt text](Screenshot2.png)
 
-Of course, I choose colors that remind us of a cookie and we will try to find fonts and animation that suit that theme. 
-![Screenshot2](https://github.com/Pressy444/myCookieCliker/assets/145189170/8b499aaf-dae2-4885-8fae-07111c927238)
-
- 
 # Pending things to do
+
 - Javascript
 
 # Developement instructions
+
 ## Cloning the Repository
 
 1. Navigate to the directory that you would like to clone the repository into using commands like:
@@ -46,23 +54,22 @@ When changes are made to the remote repository, they will not automatically sync
 To update your local git directory:
 -git pull
 
-**Note:** on `git pull` errors: You may get a `git pull` error if you have made changes to files in your local git directory. This is ok, and normal. If you get an error when you `pull` (or update) the repo that says something like "Your local changes to the following files will be overwritten by merge’", you can do a `git stash` to address this. To find out how to do this, go to https://git-scm.com/book/en/v1/Git-Tools-Stashing to read all about it.
+**Note:** on `git pull` errors: You may get a `git pull` error if you have made changes to files in your local git directory. This is ok, and normal. If you get an error when you `pull` (or update) the repo that says something like "Your local changes to the following files will be overwritten by merge’", you can do a `git stash` to address this. To find out how to do this, go to <https://git-scm.com/book/en/v1/Git-Tools-Stashing> to read all about it.
 
 ## Updating Your Local Changes To The Remote Repository
 
-1. `git status` 
+1. `git status`
     Always a good idea, this command shows you what branch you're on, what files are in the working or staging directory, and any other important information.
 2. `git checkout [branch-name]`
     Switches to the specified branch and updates the working directory.
 3. `git commit -m "descriptive message"`
     Records file snapshots permanently in version history.
-4. `git push` 
+4. `git push`
     Uploads all local branch commits to the remote.
 
-
-
-
 # Credits
+
 - [Background video](https://pixabay.com/fr/videos/citrouilles-for%C3%AAt-la-terreur-fonc%C3%A9-181881/) - Pixabay
 - [Pumpkin button](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-biscuit-orange-chocolat-8170183/) - Pixabay
+
 # myCookieCliker
