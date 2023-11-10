@@ -18,7 +18,8 @@ I wanted to simplify the layout with the cookie button and the point on one side
 
 
 Of course, I choose colors that remind us of a cookie and we will try to find fonts and animation that suit that theme. 
-![Banner -CookieClicker](/images/CookieClicker%20-Wireframe.png)
+![Screenshot2](https://github.com/Pressy444/myCookieCliker/assets/145189170/8b499aaf-dae2-4885-8fae-07111c927238)
+
  
 # Pending things to do
 - Javascript
