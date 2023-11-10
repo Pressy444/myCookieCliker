@@ -60,9 +60,7 @@ To update your local git directory:
     Uploads all local branch commits to the remote.
 
 
-# Contributor
 
-- [yvessoham](https://github.com/yvessoham)
 
 # Credits
 - [Background video](https://pixabay.com/fr/videos/citrouilles-for%C3%AAt-la-terreur-fonc%C3%A9-181881/) - Pixabay
