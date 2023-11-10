@@ -1,6 +1,6 @@
 ![Banner -CookieClicker](/images/CookieClicker%20-Banner.png)
-![Alt text](Screenshot1.png)
-![Alt text](Responsive.jpg)
+![Alt text](/images/Screenshot1.png)
+![Alt text](/images/Responsive.jpg)
 
 # Preview
 
@@ -25,7 +25,7 @@ I want to make a minimalist yet beautiful layout inspired by the [original game]
 I wanted to simplify the layout with the cookie button and the point on one side, and all the features on the other, so we can have a clear view and not to much information.
 
 Of course, I choose colors that remind us of a cookie and we will try to find fonts and animation that suit that theme.
-![Alt text](Screenshot2.png)
+![Alt text](/images/Screenshot2.png)
 
 # Pending things to do
 
